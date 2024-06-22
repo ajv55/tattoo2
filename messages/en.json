@@ -1,0 +1,135 @@
+{
+  "Heading": {
+    "title": "Transforming Ideas into Masterpieces",
+    "subtitle": "Explore the Artistry of",
+    "artistName": "Mario Cepeda",
+    "description": "Discover a world of creativity and skill with our expert in tattoos. Whether it's a classic design or something completely unique, we turn your ideas into stunning reality. Start your journey today."
+  },
+
+  "Body": {
+    "title": "welcome"
+  },
+
+  "Nav": {
+    "logo": "Mario's Studio",
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "bookAppointment": "Book Your Appointment"
+  },
+  "Hero": {
+      "title": "Transforming Ideas into Masterpieces",
+      "description1": "Explore the Artistry of",
+      "artistName": "Mario Cepeda",
+      "description2": "Discover a world of creativity and skill with our expert in tattoos. Whether it's a classic design or something completely unique, we turn your ideas into stunning reality. Start your journey today."
+    },
+    "Welcome": {
+    "heading": "Welcome to My Tattoo Portfolio",
+    "subheading": "Discover my unique tattoo designs and artistry."
+  },
+    "Portfolio": {
+      "portfolioItems": [
+        {
+          "id": 1,
+          "image": "/japanese.jpg",
+          "title": "Japanese Dragon",
+          "description": "A fierce dragon tattoo inspired by Japanese folklore."
+        },
+        {
+          "id": 2,
+          "image": "/anchor.jpg",
+          "title": "Traditional Anchor",
+          "description": "Classic sailor tattoo with an anchor design."
+        },
+        {
+          "id": 3,
+          "image": "/floral-tattoo.jpg",
+          "title": "Watercolor Floral",
+          "description": "Colorful floral tattoo with watercolor effect."
+        },
+        {
+          "id": 4,
+          "image": "/loin.jpg",
+          "title": "Geometric Lion",
+          "description": "Modern geometric lion tattoo design."
+        },
+        {
+          "id": 5,
+          "image": "/abstract.jpg",
+          "title": "Abstract Sleeve",
+          "description": "Abstract art sleeve tattoo covering the entire arm."
+        },
+        {
+          "id": 6,
+          "image": "/flower.jpg",
+          "title": "Butterfly and Flowers",
+          "description": "Delicate tattoo combining butterflies and flowers."
+        }
+      ]
+    },
+    "About": {
+    "title": "Welcome to Mario's Studio",
+    "description": "With over 3 years of experience, I specialize in creating custom tattoos that reflect your unique style and personality. Every tattoo is a masterpiece, crafted with passion and dedication."
+  },
+  "Service": {
+    "services": [
+      {
+        "icon": "firstIcon",
+        "title": "Custom Designs",
+        "description": "Unique and personalized tattoo designs tailored to your preferences."
+      },
+      {
+        "icon": "secondIcon",
+        "title": "Tattoo Aftercare Tips",
+        "description": "Learn essential tips and products to care for your new tattoo and ensure it heals beautifully."
+      },
+      {
+        "icon": "thirdIcon",
+        "title": "Consultations for New Ideas",
+        "description": "Discuss your tattoo ideas with our skilled artists for creative advice."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "Working with Mario was an incredible experience. Their attention to detail and creative vision turned my tattoo idea into a work of art!",
+      "author": "Client 1"
+    },
+    {
+      "text": "Highly recommend Mario for anyone looking for top-notch tattoo work. Professional, friendly, and extremely talented!",
+      "author": "Client 2"
+    }
+  ],
+  "Action": {
+    "heading": "Schedule Your Consultation",
+    "paragraph": "Thanks for visiting our website. We're excited to help you bring your tattoo ideas to life.",
+    "buttonText": "Schedule Your Consultation"
+  },
+  "Contact": {
+    "contactMe": "Contact Me",
+    "email": "Email",
+    "phone": "Phone",
+    "name": "Name",
+    "message": "Message",
+    "sendMessage": "Send Message"
+  },
+  "FooterNav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "copyright": "2024 Abel J.Villareal. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "What": {
+    "our_service": "Our Service",
+    "what_our_clients_say": "What Our Clients Say"
+  }
+  
+    
+  }
+  

@@ -1,0 +1,134 @@
+{
+  "Heading" : {
+    "title": "Transformando Ideas en Obras Maestras",
+    "subtitle": "Explora el Arte de",
+    "artistName": "Mario Cepeda",
+    "description": "Descubre un mundo de creatividad y habilidad con nuestro experto en tatuajes. Ya sea un diseño clásico o algo completamente único, convertimos tus ideas en una realidad impresionante. Comienza tu viaje hoy."
+  },
+  "Body": {
+    "title": "benviones "
+  },
+  "Nav": {
+    "logo": "Estudio de Mario",
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "bookAppointment": "Reserva Tu Cita"
+  },
+  "Hero": {
+      "title": "Transformando Ideas en Obras Maestras",
+      "description1": "Explora el Arte de",
+      "artistName": "Mario Cepeda",
+      "description2": "Descubre un mundo de creatividad y habilidad con nuestro experto en tatuajes. Ya sea un diseño clásico o algo completamente único, convertimos tus ideas en una realidad impresionante. Comienza tu viaje hoy."
+    },
+    "Welcome": {
+    "heading": "Bienvenido a Mi Portafolio de Tatuajes",
+    "subheading": "Descubre mis diseños de tatuajes únicos y mi arte."
+  },
+  "Portfolio": 
+    {
+      "portfolioItems": [
+        {
+          "id": 1,
+          "image": "/japanese.jpg",
+          "title": "Dragón Japonés",
+          "description": "Un feroz tatuaje de dragón inspirado en el folclore japonés."
+        },
+        {
+          "id": 2,
+          "image": "/anchor.jpg",
+          "title": "Ancla Tradicional",
+          "description": "Tatuaje clásico de marinero con un diseño de ancla."
+        },
+        {
+          "id": 3,
+          "image": "/floral-tattoo.jpg",
+          "title": "Floral en Acuarela",
+          "description": "Tatuaje floral colorido con efecto de acuarela."
+        },
+        {
+          "id": 4,
+          "image": "/loin.jpg",
+          "title": "León Geométrico",
+          "description": "Diseño de tatuaje moderno de león geométrico."
+        },
+        {
+          "id": 5,
+          "image": "/abstract.jpg",
+          "title": "Manga Abstracta",
+          "description": "Tatuaje de arte abstracto que cubre todo el brazo."
+        },
+        {
+          "id": 6,
+          "image": "/flower.jpg",
+          "title": "Mariposa y Flores",
+          "description": "Tatuaje delicado que combina mariposas y flores."
+        }
+      ]
+    },
+    "About": {
+    "title": "Bienvenido al Estudio de Mario",
+    "description": "Con más de 3 años de experiencia, me especializo en crear tatuajes personalizados que reflejan tu estilo y personalidad únicos. Cada tatuaje es una obra maestra, elaborada con pasión y dedicación."
+  },
+  "Service": {
+    "services": [
+      {
+        "icon": "firstIcon",
+        "title": "Diseños Personalizados",
+        "description": "Diseños de tatuajes únicos y personalizados adaptados a tus preferencias."
+      },
+      {
+        "icon": "secondIcon",
+        "title": "Consejos para el Cuidado del Tatuaje",
+        "description": "Aprende consejos esenciales y productos para cuidar tu nuevo tatuaje y asegurarte de que cicatrice de forma hermosa."
+      },
+      {
+        "icon": "thirdIcon",
+        "title": "Consultas para Nuevas Ideas",
+        "description": "Discute tus ideas para tatuajes con nuestros artistas expertos para recibir consejos creativos."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "Trabajar con Mario fue una experiencia increíble. Su atención al detalle y visión creativa convirtieron mi idea de tatuaje en una obra de arte.",
+      "author": "Cliente 1"
+    },
+    {
+      "text": "Recomiendo encarecidamente a Mario para cualquier persona que busque un trabajo de tatuaje de primera calidad. ¡Profesional, amigable y extremadamente talentoso!",
+      "author": "Cliente 2"
+    }
+  ],
+  "Action": {
+    "heading": "Programa Tu Consulta",
+    "paragraph": "Gracias por visitar nuestro sitio web. Estamos emocionados de ayudarte a hacer realidad tus ideas de tatuajes.",
+    "buttonText": "Programa Tu Consulta"
+  },
+  "Contact": {
+    "contactMe": "Contáctame",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "name": "Nombre",
+    "message": "Mensaje",
+    "sendMessage": "Enviar mensaje"
+  },
+  "FooterNav": {
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "Footer": {
+    "copyright": "2024 Abel J.Villareal. Todos los derechos reservados.",
+    "terms": "Términos de servicio",
+    "privacy": "Política de privacidad"
+  },
+  "What": {
+    "our_service": "Nuestro Servicio",
+    "what_our_clients_say": "Lo Que Dicen Nuestros Clientes"
+  }
+  
+  
+  
+}
